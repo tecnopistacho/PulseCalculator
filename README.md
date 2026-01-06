@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pulse Calculator
 A minimal mobile application to calculate maximum and minimum pulse using user's age.
 
@@ -66,4 +65,4 @@ This project is for educational purposes only. It should not be used as a substi
 
 ## 📚 License 
 MIT License - feel free to use, modify and share. 
->>>>>>> 15dc5df81896a43d8f2b35566d707bebc79f4169
+
